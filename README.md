@@ -39,10 +39,6 @@
 
 [<img align="left" alt="Ruby" width="26px" src="https://user-images.githubusercontent.com/30945817/142759744-9bce1d63-80dd-4b42-9d3e-8ceff16bbd0e.png" />](#)
 
-[<img align="left" alt="Rails" width="52px" src="https://user-images.githubusercontent.com/30945817/142759783-f17b4894-1b4b-4e63-9a7c-32c2bc520cd9.png" />](#)
-
-[<img align="left" alt="PHP" width="52px" src="https://user-images.githubusercontent.com/30945817/142760057-b624df08-f0d1-4cc6-9321-cfcacedd8347.png" />](#)
-
 [<img align="left" alt="Laravel" width="26px" src="https://user-images.githubusercontent.com/30945817/142760008-863f58a8-ba50-4dbe-ad20-79b0581ad17c.png" />](#)
 
 [<img align="left" alt="Flutter" width="26px" src="https://user-images.githubusercontent.com/30945817/142760123-4fae4bd1-f2a2-43e6-ad29-ea422464f32d.png" />](#)
@@ -50,6 +46,10 @@
 [<img align="left" alt="Dart" width="26px" src="https://user-images.githubusercontent.com/30945817/142760170-3da7b047-ae36-4e92-b4e2-96de8c37cac8.png" />](#)
 
 [<img align="left" alt="Android Studio" width="26px" src="https://user-images.githubusercontent.com/30945817/142760285-59d1499a-4d6f-48aa-a485-7520479ce3cd.png" />](#)
+
+[<img align="left" alt="Rails" width="52px" src="https://user-images.githubusercontent.com/30945817/142759783-f17b4894-1b4b-4e63-9a7c-32c2bc520cd9.png" />](#)
+
+[<img align="left" alt="PHP" width="52px" src="https://user-images.githubusercontent.com/30945817/142760057-b624df08-f0d1-4cc6-9321-cfcacedd8347.png" />](#)
 
 [<img align="left" alt="MySQL" width="52px" src="https://user-images.githubusercontent.com/30945817/142759866-b39385dd-21a0-48c7-acae-643c0726e7d9.png" />](#)
 
