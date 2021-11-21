@@ -5,7 +5,7 @@
 
 - 🔭 Looking into zeros and ones
 - 🧑🏻‍💻 a SWE @Freshworks
-- 🥅 2022 Goals: Start contributing to more open source projects, help needy people
+- 🥅 Planned Goals: Start contributing to more open source projects, help more needy people
 - 🧞‍ Hobby: Helping students to ace in interviews and enterprise ready
 - ⚡ The quote I love: Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 
