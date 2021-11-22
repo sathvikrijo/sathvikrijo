@@ -4,7 +4,7 @@
 ## I'm a Developer, Student mentor and Explorer!!
 
 - 🔭 Looking into zeros and ones
-- 🧑🏻‍💻 a SWE @Freshworks
+- 🧑🏻‍💻 a SWE who loves to learn something new on everyday
 - 🥅 Planned Goals: Start contributing to more open source projects, help more needy people
 - 🧞‍ Hobby: Helping students to ace in interviews and enterprise ready
 - ⚡ The quote I love: Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
